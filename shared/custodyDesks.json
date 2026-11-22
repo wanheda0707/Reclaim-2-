@@ -1,0 +1,8 @@
+[
+  { "id": "osds", "name": "OSDS Main Desk", "active": true },
+  { "id": "library", "name": "Library Desk", "active": true },
+  { "id": "gate", "name": "USO Main Gate Desk (Gen. Luna)", "active": true },
+  { "id": "back-gate", "name": "Back Gate Guardhouse (Sta. Lucia)", "active": true },
+  { "id": "uac", "name": "University Activity Center", "active": true },
+  { "id": "gym", "name": "Rajah Sulayman Gymnasium", "active": true }
+]
